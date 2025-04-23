@@ -3161,6 +3161,11 @@ PrefabInstance:
       propertyPath: gameEnding
       value: 
       objectReference: {fileID: 5642716984738007026}
+    - target: {fileID: 2048518647746381274, guid: e8a3aa0fff7032b48a8e6b68a3d8df65,
+        type: 3}
+      propertyPath: m_Speed
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2165521173776540936, guid: e8a3aa0fff7032b48a8e6b68a3d8df65,
         type: 3}
       propertyPath: m_Name
