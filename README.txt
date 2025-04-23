@@ -9,3 +9,5 @@ Minor Mod:
 I added a boolean variable checking whether it has the speed boost or not. I added a SpeedBoost.cs code to handle the collision between the speed boost asset and John Lemon. I also had to change some of the PlayerMovement.cs code for everything to run smoothly.
 
 GitHub:https://github.com/matchamage/JLHJ/tree/Major-Mod
+
+Youtube: https://youtu.be/u4UGRtFaM3Y
